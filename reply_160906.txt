@@ -1,0 +1,14 @@
+Sept. 6
+
+We modified Figure 1 by adding two panels which shows a x-y plane taken at z=0 and a x-z plane taken at y=0. 
+We specified the regions as the referee suggested such as "+M hemisphere", "-M heimsphere", magentic equator, 
+"right-hand hemisphere", and "left-hand hemisphere" and indicate them in Figure 1.
+These terminologies will be used in the manuscript to explain the plasma phenomena.
+We also add the convective electric field, the dipole moment of the magnetic anomaly, 
+and the static magnetic field for the plasma flow in the figure.
+We specified the origin of the coordinates in the figure so that the readers can easily understand the
+regions shown in the other figures for the simulation data plots.
+
+
+As kindly suggested by the referee, 
+we added some publications in the section of "Introduction" as well as in the reference list.
